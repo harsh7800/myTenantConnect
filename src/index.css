@@ -1,0 +1,21 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  /* outline: 2px solid green; */
+  overflow-x: hidden;
+
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  color: #252525;
+  min-width: 280px;
+  min-height: 600px;
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
